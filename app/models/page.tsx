@@ -136,7 +136,7 @@ const Models = () => {
 
           <button className="border border-white px-22 py-3  text-white rounded mt-7">
             Know More
-          </button>
+          </button>  
         </div>
       </div>
     </div>
