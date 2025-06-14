@@ -72,7 +72,7 @@ const Models = () => {
             "url(https://bmw.scene7.com/is/image/BMW/X5-7:3to1?fmt=webp&wid=1504&hei=501)",
         }}
       >
-        <div className="m-20">
+        <div className="m-10 ml-20">
           <p className="text-white">T H E </p>
           <h1
             className={`text-[240px] -mt-20 text-white ${inter.className} tracking-tight`}
@@ -80,7 +80,63 @@ const Models = () => {
             X5
           </h1>
           <p className="text-white text-[25px] -mt-20">CRAFTED SUPREMACY.</p>
-          <button className="border border-white px-20 py-3 text-white rounded mt-2">Discover Now</button>
+          <button className="border border-white px-22 py-3  text-white rounded mt-7">
+            Discover Now
+          </button>
+        </div>
+      </div>
+      <div
+        className="mt-10 bg-cover bg-center w-full h-[55vh]"
+        style={{
+          backgroundImage:
+            "url(https://bmw.scene7.com/is/image/BMW/x3-mobile-banner-image-1:3to1?fmt=webp&wid=1504&hei=501)",
+        }}
+      >
+        <div className="m-10 ml-20">
+          <pre className="text-white">T H E  A L L - N E W </pre>
+          <h1
+            className={`text-[240px] -mt-20 text-white ${inter.className} tracking-tight`}
+          >
+            X3
+          </h1>
+          <p className="text-white text-[20px] -mt-20">MASTER EVERY MOMENT.</p>
+          <button className="border border-white px-22 py-3  text-white rounded mt-7">
+            Discover Now
+          </button>
+        </div>
+      </div>
+
+      <div
+        className="mt-10 bg-cover bg-center relative w-full h-[55vh]"
+        style={{
+          backgroundImage:
+            "url(https://bmw.scene7.com/is/image/BMW/DI21_000048047_3000_3000:3to1?fmt=webp&wid=1504&hei=501)",
+        }}
+      >
+        <div className="m-10 ml-20 absolute bottom-1">
+
+          <p className="text-white text-[30px] -mt-20">THIS IS FORWARDISM: THE 7.</p>
+          <button className="border border-white px-22 py-3  text-white rounded mt-7">
+            Know More
+          </button>
+        </div>
+      </div>
+      <div
+        className="mt-10 bg-cover bg-center relative w-full h-[55vh]"
+        style={{
+          backgroundImage:
+            "url(https://bmw.scene7.com/is/image/BMW/iX_Banner1:3to1?fmt=webp&wid=1504&hei=501)",
+        }}
+      >
+        <div className="m-10 ml-25 absolute bottom-1">
+
+          <p className="text-white text-[25px] -mt-20">THE iX: THE JOY OF ELECTRIC DRIVING.</p>
+          <p className="text-white text-[20px] mt-5">100% electric. 100% driving pleasure. 100% BMW.</p>
+          <p className="text-white text-[20px]">Experience an entirely new sensation of sheer driving pleasure.</p>
+
+          <button className="border border-white px-22 py-3  text-white rounded mt-7">
+            Know More
+          </button>
         </div>
       </div>
     </div>
