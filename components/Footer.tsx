@@ -25,14 +25,14 @@ const Footer = () => {
             <p className="font-semibold text-[15px]">
               BMW Premium Selection (Used Cars)
             </p>
-          </div>{" "}
+          </div>
           <div className="flex flex-col gap-3">
             <h1 className="text-[14px] text-gray-500">Experience BMW</h1>
             <p className="font-semibold text-[15px]">BMW Group</p>
             <p className="font-semibold text-[15px]">BMW Excellence Club</p>
             <p className="font-semibold text-[15px]">BMW Motorrad</p>
             <p className="font-semibold text-[15px]">Charging Network</p>
-          </div>{" "}
+          </div>
           <div className="flex flex-col gap-3">
             <h1 className="text-[14px] text-gray-500">Legal</h1>
             <p className="font-semibold text-[15px]">
