@@ -5,7 +5,7 @@ import Offer from "../offer/page";
 
 const page = () => {
   return (
-    <div className="mb-50">
+    <div>
       <Home />
       <Models />
       <Offer />
