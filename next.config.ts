@@ -1,6 +1,6 @@
 const nextConfig = {
   images: {
-    domains: ['www.bmw.in'],
+    domains: ['www.bmw.in', 'bmw.scene7.com'],
   },
 };
 
