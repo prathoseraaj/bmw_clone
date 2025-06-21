@@ -53,9 +53,9 @@ prathoseraaj-bmw_clone/
 │   ├── globals.css         
 │   ├── layout.tsx          
 │   ├── (root)/page.tsx     
-│   ├── models/page.tsx     
-│   ├── details/page.tsx    
-│   └── products/page.tsx   
+│   ├── home/page.tsx     
+│   ├── models/page.tsx      
+│   └── offer/page.tsx     
 │
 ├── public/                 
 ├── next.config.ts          
